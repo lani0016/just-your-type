@@ -10,6 +10,8 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
+
+  background: linear-gradient(90deg,#E6E6FA,#93c572)
 }
 
 *, *::before, *::after {
@@ -33,6 +35,7 @@ h2 {
 
 a {
   color: #623b0c;
+  text-decoration: none;
 }
 
 .card {
